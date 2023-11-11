@@ -1,0 +1,13 @@
+.formulario :required{
+    border: 1px dashed black;
+}
+
+.formulario :valid{
+    background-color:aqua;
+    
+}
+
+img{
+    height: 25px;
+    width: 25px;   
+}

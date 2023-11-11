@@ -1,0 +1,16 @@
+.verde{
+    color: greenyellow;
+}
+.Red{
+    color: red;
+}
+.subrayar{
+    text-decoration: overline underline;
+}
+.azul{
+    color: blue;
+}
+.up{
+    font-size: 30px;
+    font-weight: bold;
+}
